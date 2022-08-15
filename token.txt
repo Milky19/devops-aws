@@ -1,0 +1,15 @@
+1. create one folder
+2. go inside folder
+3. create some files
+4. make it this folder as a git folder
+5. git status
+6. git add .
+7.git status
+8.git commit -m "msg"
+9. push your changes remote repo
+10.create github account
+11. create repo same as local folder
+12. git push
+
+
+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
